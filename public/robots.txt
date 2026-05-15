@@ -1,0 +1,8 @@
+# Robots.txt for Torrington Fence Builders
+# https://torringtonfencebuilders.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://torringtonfencebuilders.com/sitemap-index.xml
